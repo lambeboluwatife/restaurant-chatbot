@@ -1,4 +1,4 @@
-**﻿## Restaurant Chatbot**
+## Restaurant Chatbot
 
 ### How to run 
 
