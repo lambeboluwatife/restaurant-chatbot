@@ -36,4 +36,6 @@ You can work on it locally,
    ```console
    $ localhost:3000
    ```
+
+You can also view the [live site](https://restaurant-chatbot-8e71.onrender.com/).
 ---
